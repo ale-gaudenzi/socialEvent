@@ -1,0 +1,96 @@
+{
+   "type":"RaccoltaUtenti",
+   "raccoltaU":[
+      {
+         "type":"Utente",
+         "nome":"ale",
+         "password":"gau",
+         "spazioP":{
+            "type":"SpazioPersonale",
+            "notifiche":[
+		""
+            ],
+            "eventiP":[
+
+            ],
+            "eventiC":[
+               193,
+               739,
+               830
+            ]
+         },
+         "profilo":{
+            "type":"Profilo",
+            "nickname":"sss",
+            "etàMin":30,
+            "etàMax":40,
+            "interessi":[
+		0
+            ],
+            "partecipato":[
+
+            ]
+         }
+      },
+      {
+         "type":"Utente",
+         "nome":"piero",
+         "password":"stucchi",
+         "spazioP":{
+            "type":"SpazioPersonale",
+            "notifiche":[
+		""
+            ],
+            "eventiP":[
+
+            ],
+            "eventiC":[
+
+            ]
+         },
+         "profilo":{
+            "type":"Profilo",
+            "nickname":"ciccio",
+            "etàMin":10,
+            "etàMax":20,
+            "interessi":[
+               0,
+               1,
+               2
+            ],
+            "partecipato":[
+
+            ]
+         }
+      },
+      {
+         "type":"Utente",
+         "nome":"fede",
+         "password":"cap",
+         "spazioP":{
+            "type":"SpazioPersonale",
+            "notifiche":[
+		""
+            ],
+            "eventiP":[
+
+            ],
+            "eventiC":[
+
+            ]
+         },
+         "profilo":{
+            "type":"Profilo",
+            "nickname":"gonfio",
+            "etàMin":20,
+            "etàMax":30,
+            "interessi":[
+               1
+            ],
+            "partecipato":[
+
+            ]
+         }
+      }
+   ]
+}

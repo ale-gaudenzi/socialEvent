@@ -1,0 +1,80 @@
+{
+         "type":"EventoBase",
+         "nome":"nonpresenteaa",
+         "maxPartecipanti":12,
+         "scadenzaIscrizione":"09/12/2020",
+         "dataInizio":"10/12/2020",
+         "dataFine":"11/12/2020",
+         "termineRitiro":null,
+         "oraInizio":"11:11",
+         "oraFine":null,
+         "durata":null,
+         "luogo":"aaaa",
+         "quota":111.0,
+         "compresoQuota":null,
+         "note":null,
+         "tolleranza":0,
+         "creatore":{
+            "type":"Utente",
+            "nome":"ale",
+            "password":"gau",
+            "spazioP":{
+               "type":"SpazioPersonale",
+               "notifiche":[
+
+               ],
+               "eventiP":[
+
+               ],
+               "eventiC":[
+                  193
+               ]
+            },
+            "profilo":{
+               "type":"Profilo",
+               "nickname":"sss",
+               "etàMin":0,
+               "etàMax":0,
+               "interessi":[
+
+               ],
+               "partecipato":[
+
+               ]
+            }
+         },
+	"partecipanti":[
+            {
+               "type":"Utente",
+               "nome":"ale",
+               "password":"gau",
+               "spazioP":{
+                  "type":"SpazioPersonale",
+                  "notifiche":[
+
+                  ],
+                  "eventiP":[
+
+                  ],
+                  "eventiC":[
+                     193
+                  ]
+               },
+               "profilo":{
+                  "type":"Profilo",
+                  "nickname":"sss",
+                  "etàMin":0,
+                  "etàMax":0,
+                  "interessi":[
+
+                  ],
+                  "partecipato":[
+
+                  ]
+               }
+            }
+         ],
+         "code":200,
+         "tipoEvento":0,
+         "statoEvento":0
+      }

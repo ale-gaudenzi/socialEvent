@@ -1,0 +1,60 @@
+{
+         "type":"EventoQuote",
+         "nome":null,
+         "maxPartecipanti":11,
+         "scadenzaIscrizione":"11/12/2020",
+         "dataInizio":"12/12/2020",
+         "dataFine":"11/12/2020",
+         "termineRitiro":null,
+         "oraInizio":"10:10",
+         "oraFine":null,
+         "durata":null,
+         "luogo":"prova",
+         "quota":10.0,
+         "compresoQuota":null,
+         "note":null,
+         "tolleranza":0,
+         "creatore":{
+            "type":"Utente",
+            "nome":"ale",
+            "password":"gau",
+            "spazioP":{
+               "type":"SpazioPersonale",
+               "notifiche":[
+
+               ],
+               "eventiP":[
+
+               ],
+               "eventiC":[
+                  193,
+                  739,
+                  830,
+                  218
+               ]
+            },
+            "profilo":{
+               "type":"Profilo",
+               "nickname":"sss",
+               "etàMin":0,
+               "etàMax":0,
+               "interessi":[
+
+               ],
+               "partecipato":[
+
+               ]
+            }
+         },
+         "partecipanti":[
+           
+         ],
+         "code":218,
+         "tipoEvento":0,
+         "statoEvento":0,
+         "quoteAggiuntive":{
+            "quota1":11.0,
+            "quota2":12.0,
+            "quota3":13.0
+         }
+      }

@@ -1,0 +1,29 @@
+{
+         "type":"Utente",
+         "nome":"ele",
+         "password":"bau",
+         "spazioP":{
+            "type":"SpazioPersonale",
+            "notifiche":[
+		""
+            ],
+            "eventiP":[
+
+            ],
+            "eventiC":[
+               
+            ]
+         },
+         "profilo":{
+            "type":"Profilo",
+            "nickname":"sifao",
+            "etàMin":40,
+            "etàMax":30,
+            "interessi":[
+		2
+            ],
+            "partecipato":[
+
+            ]
+         }
+      }

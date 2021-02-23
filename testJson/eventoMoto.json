@@ -1,0 +1,84 @@
+{
+         "type":"EventoBase",
+         "nome":"ottocentotrenta",
+         "maxPartecipanti":9,
+         "scadenzaIscrizione":"09/10/2020",
+         "dataInizio":"10/08/2020",
+         "dataFine":"13/08/2020",
+         "termineRitiro":null,
+         "oraInizio":"13:13",
+         "oraFine":null,
+         "durata":null,
+         "luogo":"eee",
+         "quota":14.0,
+         "compresoQuota":null,
+         "note":null,
+         "tolleranza":0,
+         "creatore":{
+            "type":"Utente",
+            "nome":"ale",
+            "password":"gau",
+            "spazioP":{
+               "type":"SpazioPersonale",
+               "notifiche":[
+
+               ],
+               "eventiP":[
+
+               ],
+               "eventiC":[
+                  193,
+                  739,
+                  830
+               ]
+            },
+            "profilo":{
+               "type":"Profilo",
+               "nickname":"sss",
+               "etàMin":0,
+               "etàMax":0,
+               "interessi":[
+
+               ],
+               "partecipato":[
+
+               ]
+            }
+         },
+         "partecipanti":[
+            {
+               "type":"Utente",
+               "nome":"ale",
+               "password":"gau",
+               "spazioP":{
+                  "type":"SpazioPersonale",
+                  "notifiche":[
+
+                  ],
+                  "eventiP":[
+
+                  ],
+                  "eventiC":[
+                     193,
+                     739,
+                     830
+                  ]
+               },
+               "profilo":{
+                  "type":"Profilo",
+                  "nickname":"sss",
+                  "etàMin":0,
+                  "etàMax":0,
+                  "interessi":[
+
+                  ],
+                  "partecipato":[
+
+                  ]
+               }
+            }
+         ],
+         "code":830,
+         "tipoEvento":1,
+         "statoEvento":0
+      }
